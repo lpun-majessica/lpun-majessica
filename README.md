@@ -17,7 +17,7 @@
   
 ### Feel free to connect with me
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/lpun-majessica/" {:target="_blank"}>
+  <a href="https://www.linkedin.com/in/lpun-majessica/" {:target="_blank" rel="noopener"}>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:nhi.lpu1205@gmail.com" target="_blank">
