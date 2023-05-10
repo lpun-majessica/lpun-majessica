@@ -33,6 +33,6 @@
   <img src="https://img.buzzfeed.com/buzzfeed-static/static/2023-03/18/20/asset/4384748fe195/sub-buzz-14447-1679170744-1.jpg" width="350"/>
 </div>
 
-This is my very first project trying to clean [this Taylor Swift Spotify Dataset](https://www.kaggle.com/datasets/jarredpriester/taylor-swift-spotify-dataset) on Kaggle. I decided to do is to help applying what I've learned from the 4th course of the Google Data Analytics Certificate Program about data cleaning and reinforce this newly acquired knowledge.
+This is my very first project trying to clean [this Taylor Swift Spotify Dataset](https://www.kaggle.com/datasets/jarredpriester/taylor-swift-spotify-dataset) on Kaggle. I decided to do this to help applying what I've learned from the 4th course of the Google Data Analytics Certificate Program about data cleaning and reinforce this newly acquired knowledge.
 
 ### • *Project 2:*
