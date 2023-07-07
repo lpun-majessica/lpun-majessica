@@ -9,7 +9,7 @@
 
   - I'm currently a :dog: **Veterinary Medicine** :cat: undergraduate student with a passion for data analytics. After completing the Google **Data Analytics** Certificate Program, I'm now seeking to expand my knowledge and skills in this exciting, ever-changing field.
   
-  - I love listening to :musical_note: music during my freetime and while working casually. My favourite artists are Taylor Swift, Vu Cat Tuong and NewJeans!
+  - I love listening to :musical_note: music during my free time and while working casually. My favourite artists are Taylor Swift, Vu Cat Tuong, and NewJeans!
   
   - Here is my favorite quote:
   > "Twenty years from now you will be more disappointed by the things that you ***didn't*** do than the one that you did."
@@ -33,6 +33,12 @@
   <img src="https://img.buzzfeed.com/buzzfeed-static/static/2023-03/18/20/asset/4384748fe195/sub-buzz-14447-1679170744-1.jpg" width="350"/>
 </div>
 
-This is my very first project trying to clean [this Taylor Swift Spotify Dataset](https://www.kaggle.com/datasets/jarredpriester/taylor-swift-spotify-dataset) on Kaggle. I decided to do this to help applying what I've learned from the 4th course of the Google Data Analytics Certificate Program about data cleaning and reinforce this newly acquired knowledge.
+This is my very first project trying to clean [this Taylor Swift Spotify Dataset](https://www.kaggle.com/datasets/jarredpriester/taylor-swift-spotify-dataset) on Kaggle. I decided to do this to help apply what I've learned from the 4th course of the Google Data Analytics Certificate Program about data cleaning and reinforce this newly acquired knowledge.
 
-### • *Project 2:*
+### • *Project 2:* [Exploratory Data Analysis (EDA) in SQL with Animal Shelter Analytics dataset](https://github.com/lpun-majessica/DataAnalyticsPortfolio/blob/main/eda-animal-shelter.ipynb)
+
+<div id="banner" align="center">
+  <img src="https://firehouseaustin.com/wp-content/uploads/2021/09/7.jpg" width="350"/>
+</div>
+
+This is my second project and I challenged myself to do an EDA on [this Animal Shelter Analytics Dataset](https://www.kaggle.com/datasets/jackdaoud/animal-shelter-analytics) on Kaggle. After finishing Course 5 of the Google Data Analytics Certificate Program, I felt like I learned enough to tackle an EDA on my own <s>with the help of the Internet</s>. And since I had so many questions after looking at this dataset, why wouldn't I start with it?
