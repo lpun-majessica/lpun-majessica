@@ -41,4 +41,4 @@ This is my very first project trying to clean [this Taylor Swift Spotify Dataset
   <img src="https://firehouseaustin.com/wp-content/uploads/2021/09/7.jpg" width="350"/>
 </div>
 
-This is my second project and I challenged myself to do an EDA on [this Animal Shelter Analytics Dataset](https://www.kaggle.com/datasets/jackdaoud/animal-shelter-analytics) on Kaggle. After finishing Course 5 of the Google Data Analytics Certificate Program, I felt like I learned enough to tackle an EDA on my own <s>with the help of the Internet</s>. And since I had so many questions after looking at this dataset, why wouldn't I start with it?
+This is my second project and I challenged myself to do an EDA on [this Animal Shelter Analytics Dataset](https://www.kaggle.com/datasets/jackdaoud/animal-shelter-analytics) on Kaggle. After finishing Course 5 of the Google Data Analytics Certificate Program, I felt like I learned enough to tackle an EDA on my own *(with the help of the Internet)*. And since I had so many questions after looking at this dataset, why wouldn't I start with it?
