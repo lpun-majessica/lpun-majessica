@@ -35,7 +35,7 @@
 
 This is my very first project trying to clean [this Taylor Swift Spotify Dataset](https://www.kaggle.com/datasets/jarredpriester/taylor-swift-spotify-dataset) on Kaggle. I decided to do this to help apply what I've learned from the 4th course of the Google Data Analytics Certificate Program about data cleaning and reinforce this newly acquired knowledge.
 
-### • *Project 2:* [Exploratory Data Analysis (EDA) in SQL with Animal Shelter Analytics dataset](https://github.com/lpun-majessica/DataAnalyticsPortfolio/blob/main/eda-animal-shelter.ipynb)
+### • *Project 2:* [Exploratory Data Analysis (EDA) in SQL with Animal Shelter Analytics dataset](https://github.com/lpun-majessica/DataAnalyticsPortfolio/blob/main/SQL/eda_animal_shelter.ipynb)
 
 <div id="banner" align="center">
   <img src="https://firehouseaustin.com/wp-content/uploads/2021/09/7.jpg" width="350"/>
