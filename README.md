@@ -23,6 +23,9 @@
   <a href="mailto:nhi.lpu1205@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+  <a href="https://public.tableau.com/app/profile/lpun.majessica" {:target="_blank" rel="noopener"}>
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau Badge"/>
+  </a>  
  </div>
   
 ## ☁️ Highlighted projects
@@ -42,3 +45,11 @@ This is my very first project trying to clean [this Taylor Swift Spotify Dataset
 </div>
 
 This is my second project and I challenged myself to do an EDA on [this Animal Shelter Analytics Dataset](https://www.kaggle.com/datasets/jackdaoud/animal-shelter-analytics) on Kaggle. After finishing Course 5 of the Google Data Analytics Certificate Program, I felt like I learned enough to tackle an EDA on my own *(with the help of the Internet)*. And since I had so many questions after looking at this dataset, why wouldn't I start with it?
+
+### • *Project 3:* [Data Visualization of Vietnam National High School Graduation Exam (NHGE) Results 2022](https://public.tableau.com/app/profile/lpun.majessica/viz/TableauProjectVietnamNHSE2022/ResultReport)
+
+<div id="banner" align="center">
+  <img src="https://cdnimgen.vietnamplus.vn/t660/uploaded/wbxx/2022_07_07/national_high_school_graduation_exam_1.jpg" width="350"/>
+</div>
+
+My first Tableau project after finishing the 6th Course of the Google Data Analytics Certificate Program. As the NHGE 2023 has just ended, I thought that I could do something related to this event while exploring and practicing making a dashboard in Tableau.
