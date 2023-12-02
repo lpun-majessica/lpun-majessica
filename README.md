@@ -33,7 +33,7 @@
 ### • *Christmas project:* [Advent of Code](https://github.com/lpun-majessica/advent-of-code)
 
 <div id="banner" align="center">
-  <img src="https://img.buzzfeed.com/buzzfeed-static/static/2023-03/18/20/asset/4384748fe195/sub-buzz-14447-1679170744-1.jpg" width="350"/>
+  <img src="https://th.bing.com/th/id/OIP.Z8gcdIKu0_e955Ufk_ztrwHaEE?w=328&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7" width="350"/>
 </div>
 
 As :sparkles::christmas_tree: Christmas :christmas_tree::sparkles: is just around the corner, I want to join in with everyone to countdown until the holidays by challenging myself to solve these puzzles to the best of my ability.
