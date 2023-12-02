@@ -30,6 +30,15 @@
   
 ## ☁️ Highlighted projects
 
+### • *Christmas project:* [Advent of Code](https://github.com/lpun-majessica/advent-of-code)
+
+<div id="banner" align="center">
+  <img src="https://img.buzzfeed.com/buzzfeed-static/static/2023-03/18/20/asset/4384748fe195/sub-buzz-14447-1679170744-1.jpg" width="350"/>
+</div>
+
+As :sparkles::christmas_tree: Christmas :christmas_tree::sparkles: is just around the corner, I want to join in with everyone to countdown until the holidays by challenging myself to solve these puzzles to the best of my ability.
+:sparkles::christmas_tree: ***Merry Christmas*** :christmas_tree::sparkles: everyone! :D
+
 ### • *Project 1:* [Data Cleaning in SQL with Taylor Swift Spotify dataset](https://github.com/lpun-majessica/DataAnalyticsPortfolio/blob/main/SQL/data_cleaning_taylor_swift.ipynb)
 
 <div id="banner" align="center">
