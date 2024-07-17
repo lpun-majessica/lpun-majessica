@@ -58,7 +58,7 @@ This is my second project and I challenged myself to do an EDA on [this Animal S
 ### • *Project 3:* [Data Visualization of Vietnam National High School Graduation Exam (NHGE) Results 2022](https://public.tableau.com/app/profile/lpun.majessica/viz/TableauProjectVietnamNHSE2022/ResultReport)
 
 <div id="banner" align="center">
-  <img src="https://cdnmedia.thethaovanhoa.vn/Upload/HkZGoyHWnkz0zSe1YDYTw/files/2019/05/up/thpt.jpg" width="350"/>
+  <img src="https://thitotnghiepthpt.vn/assets/news/thi-tot-nghiep-thpt-thptquocgiaeduvn-11.jpg" width="350"/>
 </div>
 
 My first Tableau project after finishing the 6th Course of the Google Data Analytics Certificate Program. As the NHGE 2023 has just ended, I thought that I could do something related to this event while exploring and practicing making a dashboard in Tableau.
