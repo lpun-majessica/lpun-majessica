@@ -6,8 +6,6 @@
 ## ☁️ Welcome to my GitHub profile, it's nice to have you here
 
 ### I'm *Le Phuong Uyen Nhi*, or you can call me *Jessica*
-
-  - I'm currently a :dog: **Veterinary Medicine** :cat: undergraduate student with a passion for data analytics. After completing the Google **Data Analytics** Certificate Program, I'm now seeking to expand my knowledge and skills in this exciting, ever-changing field.
   
   - I love listening to :musical_note: music during my free time and while working casually. My favourite artists are Taylor Swift, Vu Cat Tuong, and NewJeans!
   
