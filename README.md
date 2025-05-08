@@ -12,16 +12,3 @@
   - Here is my favorite quote:
   > "Twenty years from now you will be more disappointed by the things that you ***didn't*** do than the one that you did."
   > <p align="right">- Mark Twain</p>
-  
-### Feel free to connect with me
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/lpun-majessica/" {:target="_blank" rel="noopener"}>
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>  
-  <a href="mailto:nhi.lpu1205@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://public.tableau.com/app/profile/lpun.majessica" {:target="_blank" rel="noopener"}>
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau Badge"/>
-  </a>  
- </div>
